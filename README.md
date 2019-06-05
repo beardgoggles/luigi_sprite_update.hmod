@@ -1,0 +1,2 @@
+# Luigi Sprite Update
+A rewrite of **smas_luigi.hmod** by KalamityKappa, this hmod updates the Luigi sprites used during the "Classic Demo" mode with the sprites from 1994's "Super Mario All-Stars + Super Mario World".

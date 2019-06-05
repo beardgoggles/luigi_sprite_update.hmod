@@ -1,0 +1,4 @@
+local region="$(cat "$rootfs/etc/clover/ui")"
+
+rm -f "$preinitpath/p7627_luigi_sprite_update"
+rm -rf "$rootfs/usr/share/ui/$region/resources/layout/asset/sprite/luigi"

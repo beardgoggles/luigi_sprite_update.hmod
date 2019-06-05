@@ -1,0 +1,10 @@
+local region="$(cat "$rootfs/etc/clover/ui")"
+
+mkdir -p "$rootfs/usr/share/ui/$region/resources/layout/asset/sprite"
+
+copy "$transferpath/p7627_luigi_sprite_update" "$preinitpath"
+copy "$transferpath/luigi" "$rootfs/usr/share/ui/$region/resources/layout/asset/sprite"
+
+unset cfg_smas_luigi_graphics_enabled
+
+return 1
