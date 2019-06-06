@@ -1,7 +1,7 @@
 ---
 Name: Luigi Sprite Update
 Creator: beardgoggles
-Version: 1.0 (2019-06-05)
+Version: 1.1 (2019-06-06)
 System: SNES
 Category: UI
 ---
